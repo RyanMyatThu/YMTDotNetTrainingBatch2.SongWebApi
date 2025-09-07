@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "YMTDotNetTrainingBatch2.WebAPI.Controllers.SongsController",
+    "Method": "CreateSongAsync",
+    "RelativePath": "api/Songs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "song",
+        "Type": "YMTDotNetTrainingBatch2.Database.AppDbContextModels.TblSong",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YMTDotNetTrainingBatch2.WebAPI.Controllers.SongsController",
+    "Method": "GetSongByIdAsync",
+    "RelativePath": "api/Songs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YMTDotNetTrainingBatch2.WebAPI.Controllers.SongsController",
+    "Method": "UpdateSongAsync",
+    "RelativePath": "api/Songs/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "song",
+        "Type": "YMTDotNetTrainingBatch2.Database.AppDbContextModels.TblSong",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YMTDotNetTrainingBatch2.WebAPI.Controllers.SongsController",
+    "Method": "DeleteSongAsync",
+    "RelativePath": "api/Songs/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YMTDotNetTrainingBatch2.WebAPI.Controllers.SongsController",
+    "Method": "GetSongsAsync",
+    "RelativePath": "api/Songs/List/{pageNo}/{pageSize}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

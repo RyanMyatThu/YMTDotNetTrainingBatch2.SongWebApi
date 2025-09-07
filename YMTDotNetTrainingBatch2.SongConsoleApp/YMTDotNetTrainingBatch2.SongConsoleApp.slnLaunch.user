@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "YMTDotNetTrainingBatch2.SongConsoleApp.csproj",
+        "Action": "Start",
+        "DebugTarget": "YMTDotNetTrainingBatch2.SongConsoleApp"
+      },
+      {
+        "Path": "..\\YMTDotNetTrainingBatch2.WebAPI\\YMTDotNetTrainingBatch2.WebAPI.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

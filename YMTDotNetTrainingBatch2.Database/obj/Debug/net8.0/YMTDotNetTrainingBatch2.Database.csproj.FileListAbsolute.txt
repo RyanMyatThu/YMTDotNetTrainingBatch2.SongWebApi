@@ -1,0 +1,15 @@
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\bin\Debug\net8.0\YMTDotNetTrainingBatch2.Database.deps.json
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\bin\Debug\net8.0\YMTDotNetTrainingBatch2.Database.dll
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\bin\Debug\net8.0\YMTDotNetTrainingBatch2.Database.pdb
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.AssemblyInfoInputs.cache
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.AssemblyInfo.cs
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.csproj.CoreCompileInputs.cache
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.sourcelink.json
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.dll
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\refint\YMTDotNetTrainingBatch2.Database.dll
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.pdb
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\ref\YMTDotNetTrainingBatch2.Database.dll
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\bin\Debug\net8.0\YMTDotNetTrainingBatch2.Database.runtimeconfig.json
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.csproj.AssemblyReference.cache
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.Database\obj\Debug\net8.0\YMTDotNetTrainingBatch2.Database.genruntimeconfig.cache

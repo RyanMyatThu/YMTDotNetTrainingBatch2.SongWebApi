@@ -1,0 +1,16 @@
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\bin\Debug\net8.0\YMTDotNetTrainingBatch2.DA.deps.json
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\bin\Debug\net8.0\YMTDotNetTrainingBatch2.DA.dll
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\bin\Debug\net8.0\YMTDotNetTrainingBatch2.DA.pdb
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\bin\Debug\net8.0\YMTDotNetTrainingBatch2.Database.dll
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\bin\Debug\net8.0\YMTDotNetTrainingBatch2.Database.pdb
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNetTrainingBatch2.DA.csproj.AssemblyReference.cache
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNetTrainingBatch2.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNetTrainingBatch2.DA.AssemblyInfoInputs.cache
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNetTrainingBatch2.DA.AssemblyInfo.cs
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNetTrainingBatch2.DA.csproj.CoreCompileInputs.cache
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNetTrainingBatch2.DA.sourcelink.json
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNe.09C34D3F.Up2Date
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNetTrainingBatch2.DA.dll
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\refint\YMTDotNetTrainingBatch2.DA.dll
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\YMTDotNetTrainingBatch2.DA.pdb
+C:\Users\ryanm\Desktop\Coding\FrontEnd\website\SongConsoleApp\YMTDotNetTrainingBatch2.DA\obj\Debug\net8.0\ref\YMTDotNetTrainingBatch2.DA.dll
